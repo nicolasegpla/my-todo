@@ -1,0 +1,44 @@
+.li--todos {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: gainsboro;
+    border-radius: .9375rem;
+}
+.span {
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.span .icon-svg-delete {
+    transition: all 0.5s;
+}
+.span .icon-svg-delete:hover {
+    fill: red;
+    transition: all 0.5s;
+}
+.span .icon-svg-check {
+    transition: all 0.5s;
+}
+.span .icon-svg-check:hover {
+    fill: green;
+    transition: all 0.5s;
+}
+
+.p {
+    color: black;
+    text-decoration-line: none ;
+}
+
+.complete {
+    background-color:rgb(49, 252, 52);
+    color: #333;
+    text-decoration-line: line-through;
+}

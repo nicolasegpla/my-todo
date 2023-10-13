@@ -1,0 +1,10 @@
+.h1--counter {
+    width: 100vw;
+    max-width: 39.375rem;
+    height: auto;
+    margin-top: 2rem;
+    padding: 0 1rem;
+    text-align: center;
+    font-size: 2rem;
+    line-height: 2rem;
+}

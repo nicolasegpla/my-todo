@@ -1,0 +1,9 @@
+.button--more {
+    width: 20rem;
+    height: 3rem;
+    border-radius: .9375rem;
+    border: none;
+    background-color: #07ACA5;
+    font-size: 1rem;
+    font-weight: 600;
+}

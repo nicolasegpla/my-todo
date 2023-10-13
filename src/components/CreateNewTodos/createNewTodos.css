@@ -1,0 +1,38 @@
+.div__card--newTodo {
+    width: 18.75rem;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 11.25rem;
+    padding: 1.5rem;
+    border-radius: .9375rem;
+    background-color: #333333;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+    color: whitesmoke;
+}
+.div__card--newTodo__p {
+    width: 12.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.25rem;
+}
+.div__card--newTodo__input {
+    width: 12.5rem;
+    height: 3rem;
+    padding-left: 1rem;
+    border-radius: .625rem;
+    border: none;
+}
+.div__card--newTodo__button {
+    width: 6.25rem;
+    height: 3rem;
+    border-radius: .625rem;
+    border: none;
+    background-color: chartreuse;
+    font-size: 1rem;
+    font-weight: 600;
+}

@@ -1,0 +1,10 @@
+.input--search {
+    width: 20rem;
+    height: 2.5rem;
+    margin-top: 2rem;
+    border-radius: .9375rem;
+    border: .125rem solid #333;
+    padding-left: 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
